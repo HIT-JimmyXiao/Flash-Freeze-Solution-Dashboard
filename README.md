@@ -26,5 +26,5 @@ Use your own `rsconnect::setAccountInfo()` in a private script. Do not commit to
 - Course: Big Data Analysis & R Language - Lab Work 3.5
 - Group: 14
 - Template inspiration: FAO Crops & Livestock Production Dashboard (v2.3, 2025)
-- Maintainer: bowenzhao917
+- Maintainer: Jimmy
 
