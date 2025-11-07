@@ -45,7 +45,7 @@ shiny::runApp('app.R')
 ```
 
 ## 🚀 部署
-请在私有脚本中使用你自己的 `rsconnect::setAccountInfo()`，不要提交任何凭据到公开仓库。
+请在私有脚本中使用你自己的 `rsconnect::setAccountInfo()`。
 
 ## 🙌 Credits
 - Course: Big Data Analysis & R Language - Lab Work 3.5
